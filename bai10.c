@@ -21,7 +21,7 @@ int main(){
     printf("Nhap ten nhan vien: ");
     fgets(s,sizeof(s),stdin);
     s[strlen(s)-1]='\0';
-    printf("Nhap so gio lam: ");
+    printf("Nhap so gio lam:  ");
     scanf("%d",&a);
     printf("Nhap luong moi gio: ");
     scanf("%d",&b);
